@@ -74,7 +74,7 @@ sh tools/dist_train.sh projects/configs/two_stream_codetr/codino_vit_twostream_6
 ```
 
 ### Testing
-Test Co-Deformable-DETR + ResNet-50 with 8 GPUs, and evaluate:
+Test C3-OWD + ResNet-50 with 8 GPUs, and evaluate:
 ```shell
 sh tools/dist_test.sh  projects/configs/two_stream_codetr/codino_vit_twostream_640_autoaugv1_train2.py 8 --eval bbox
 ```
