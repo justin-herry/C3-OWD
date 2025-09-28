@@ -3,7 +3,7 @@
 This is the official repository for the paper:
 > **C3-OWD: A Curriculum Cross-modal Contrastive Learning Framework for Open-World Detection**
 >
-> Siheng Wang\*<sup>†</sup>, Zhengdao Li\*, Yanshu Li, Canran Xiao, Haibo Zhan, Zhengtao Yao, Junhao Dong,  Xuzhi Zhang,  Jiale Kang,  Linshan Li,  Weiming Liu,  Zhikang Dong,  Jifeng Shen<sup>#†</sup>,  Qiang Sun<sup>#</sup>,  Piotr Koniusz <sup>#</sup>
+> Siheng Wang\*<sup>†</sup>, Zhengdao Li\*, Yanshu Li, Canran Xiao, Haibo Zhan, Zhengtao Yao, Xuzhi Zhang,  Jiale Kang,  Linshan Li,  Weiming Liu,  Zhikang Dong,  Jifeng Shen<sup>#†</sup>, Junhao Dong<sup>#</sup>, Qiang Sun<sup>#</sup>,  Piotr Koniusz <sup>#</sup>
 >
 > \*Equal contribution. <sup>†</sup>Project lead. <sup>#</sup>Corresponding author.
 >
