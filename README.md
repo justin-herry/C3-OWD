@@ -81,7 +81,7 @@ We sincerely thank the open-sourcing of these works where our code is based on:
 [Co-DETR](https://github.com/Sense-X/Co-DETR.git)
 [Vision-RWKV](https://github.com/OpenGVLab/Vision-RWKV.git)
 
-We thank [Zelin Zang](zangzelin@gmail.com) for helpful discussion.
+
 
 
 ## 🔒 License
